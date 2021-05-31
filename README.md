@@ -3,6 +3,10 @@
 
 >Kaggle  
 
+- 타이타닉
+- Iris
+- boston housing price
+
   
   
 >Dacon
