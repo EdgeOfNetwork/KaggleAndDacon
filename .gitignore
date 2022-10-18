@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+KAMP2\data
+KAMP2/data
+
+*.csv
